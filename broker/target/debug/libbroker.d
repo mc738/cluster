@@ -1,0 +1,1 @@
+/home/max/Projects/cluster/broker/target/debug/libbroker.rlib: /home/max/Projects/cluster/broker/src/connection_handler.rs /home/max/Projects/cluster/broker/src/event_loop.rs /home/max/Projects/cluster/broker/src/job.rs /home/max/Projects/cluster/broker/src/lib.rs /home/max/Projects/cluster/broker/src/logger.rs /home/max/Projects/cluster/broker/src/message.rs
